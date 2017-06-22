@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Abandoment</title>
+    <link href="css/estilos.css" rel="stylesheet" type="text/css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
+<body>
+<div id="contenedor">
+    <div id="casa"></div>
+    <div class="toggle" id="uno"></div>
+    <div class="toggle" id="dos"></div>
+    <div class="toggle" id="tres"></div>
+    <div class="toggle" id="cuatro" style="display: none"></div>
+    <div class="toggle" id="cinco" style="display: none"></div>
+    <div class="toggle" id="seis" style="display: none"></div>
+</div>
+
+<script>
+    $(function () {
+        setInterval(function () {
+            $('.toggle').toggle();
+        }, 5400)
+    })
+    //    $(document).ready(function() {
+    //    $("#cuatro").hide();
+    //    $("#cinco").hide();
+    //    $("#seis").hide();
+    //    animation1();
+    //    animation3();
+    //    animation4();
+    //});
+    //  function animation1(){
+    //    setTimeout(function() {
+    //          $("#uno").hide();
+    //     $("#cuatro").show();
+    //    }, 5500);
+    //  }
+    //  function animation3(){
+    //    setTimeout(function() {
+    //          $("#dos").hide();
+    //     $("#cinco").show();
+    //    }, 5500);
+    //  }
+    //  function animation4(){
+    //    setTimeout(function(){
+    //      $("#tres").hide();
+    //      $("#seis").show();
+    //    }, 5500);
+    //  }
+</script>
+</body>
+</html>
