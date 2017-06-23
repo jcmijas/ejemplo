@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4"
     },
-"jcmijas/ejemplo": "dev-master",
+"minimum-stability": "stable",
     "autoload": {
         "classmap": [ "src/" ]
     }
