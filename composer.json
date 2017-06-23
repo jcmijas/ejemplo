@@ -4,16 +4,13 @@
     "description": "Tutorial",
     "keywords": ["generator","template","random","grammar"],
     "homepage": "https://github.com/jcmijas/ejemplo",
-    "version": ">=1.0.0",
+    "version": ">=2.0.0",
     "license": "MIT",
     "authors": [
         {
             "name": "Stefano Azzolini",
             "email": "lastguest@gmail.com"
         }
-        
-
-        
     ],
     "require": {
         "php": ">=5.4"
