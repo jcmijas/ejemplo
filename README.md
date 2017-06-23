@@ -2,7 +2,7 @@
 
 > Generate random strings from templates.
 
-[![Latest Stable Version](https://github.com/jcmijas/ejemplo)]
+[![Latest Stable Version](https://packagist.org/packages/jcmijas/ejemplo)]
 
 ## Installation
 
