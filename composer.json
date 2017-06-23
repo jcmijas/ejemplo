@@ -17,6 +17,6 @@
     },
     "minimum-stability": "stable",
     "autoload": {
-        "classmap": [ "src/" ]
+        "classmap": [ "Abandonment/" ]
     }
 }
