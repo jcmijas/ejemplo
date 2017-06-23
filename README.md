@@ -2,7 +2,8 @@
 
 > Generate random strings from templates.
 
-[![Latest Stable Version](https://packagist.org/packages/jcmijas/ejemplo)]
+[![Latest Stable Version](https://poser.pugx.org/lastguest/dynamic-string/v/stable.svg)]
+(https://packagist.org/packages/jcmijas/ejemplo)
 
 ## Installation
 
