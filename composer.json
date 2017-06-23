@@ -15,16 +15,11 @@
 
         
     ],
-        
-
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/jcmijas/ejemplo"
-        }
-    ],
     "require": {
-        "jcmijas/ejemplo": "2.0",
-        "jcmijas/ejemplo": "dev-bugfix as 1.0.x-dev"
+        "php": ">=5.4"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": [ "src/" ]
     }
 }
