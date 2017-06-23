@@ -2,7 +2,7 @@
     "name": "jcmijas/ejemplo",
     "type": "library",
     "description": "Tutorial",
-    "keywords": ["ejemplo,tutorial,development"],
+    "keywords": ["generator","template","random","grammar"],
     "homepage": "https://github.com/jcmijas/ejemplo",
     "version": "1.0.0",
     "license": "MIT",
